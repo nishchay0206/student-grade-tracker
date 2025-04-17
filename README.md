@@ -40,5 +40,5 @@ A web-based application that allows students to monitor their academic performan
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/student-grade-tracker.git
+git clone https://github.com/nishchay0206/student-grade-tracker.git
 cd student-grade-tracker
